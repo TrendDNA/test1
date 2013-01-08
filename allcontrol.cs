@@ -7,12 +7,7 @@ public class allcontrol : MonoBehaviour {
 	public static GameObject headone1;
 	public static GameObject headone2;
 	public static GameObject headone3;
-	public static GameObject headone4;
-	public static GameObject headone5;
-	
-	public static GameObject oneStone1;
-	public static GameObject oneStone2;
-	public static GameObject oneStone3;
+
 	public static GameObject oneStone4;
 	public static GameObject oneStone5;
 	
