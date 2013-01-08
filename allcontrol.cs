@@ -84,12 +84,7 @@ public class allcontrol : MonoBehaviour {
 		headthree1 = GameObject.Find("headthree1");	
 		headthree2 = GameObject.Find("headthree2");	
 		headthree3 = GameObject.Find("headthree3");	
-		headthree4 = GameObject.Find("headthree4");	
-		headthree5 = GameObject.Find("headthree5");	
-		
-		threeStone1 = GameObject.Find("threeStone1");	
-		threeStone2 = GameObject.Find("threeStone2");
-		threeStone3 = GameObject.Find("threeStone3");		
+	
 	}
 	
 	void Start () {
